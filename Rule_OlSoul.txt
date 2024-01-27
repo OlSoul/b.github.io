@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! Title: OlSoul附加自用规则
+! Version: 202207051
+! Expires: 2 days
+! Homepage: https://b.olsoul.com
+
+
+!--------------------------开始----------------------------------
+
+! 下面这个OlSoul修改了
+pcbeta.com##+js(aopr, Node.prototype.insertBefore)
+pcbeta.com###sitefocus
+||pbcdn.com/data/attachment/album/$image
+||pcbeta.com/static/image/biz/$image
+
+! pcbeta.com##+js(apor, MutationObserver)
+! pcbeta.com###sitefocus
+! ||pbcdn.com/data/attachment/album/$image
+! ||pcbeta.com/static/image/biz/$image

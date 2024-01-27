@@ -1,0 +1,53 @@
+﻿article {
+    /*border:2px solid #4caf50;padding:10px 40px;background: azure;width: 600px;border-radius: 25px;margin:auto;*/
+    outline: 0;
+    border-color: rgba(82, 168, 236, 0.8);
+    -webkit-box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 32px rgba(1, 9, 15, 0.6);
+    -moz-box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 32px rgba(1, 9, 15, 0.6);
+    box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 32px rgba(1, 9, 15, 0.6);
+    margin: auto;
+    width: 650px;
+    border: 2px solid #ffffff;
+    border-radius: 25px;
+    padding: 10px 40px;
+    position:relative;
+    backdrop-filter: blur(20px);
+}
+
+/*
+    img{border-style:hidden;border-color: #4caf50;border-width: 2px;text-align: center;box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 32px rgba(1, 9, 15, 0.6);}
+    h1{text-shadow: 2px 2px #09ec15;color:aliceblue}
+    */
+img {
+    border-style: hidden;
+    border-width: 2px;
+    text-align: center;
+    box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 32px rgba(1, 9, 15, 0.6);
+    position: relative;
+}
+
+a {
+    color: green;
+}
+
+/* 设置取消超链接下划线 */
+a {text-decoration:none}
+a:hover {color: red;text-decoration:none}
+
+header {
+    /* 设置相对定位 */
+    position: relative;
+}
+
+#particles-js{
+    width: 100%;
+    height: 100%;
+    background-image: url('');
+    background-size: contain;
+    background-position: 100% 100%;
+    background-repeat: repeat;
+    position: absolute;
+  }
+footer {
+    position: relative;
+}
