@@ -40,6 +40,7 @@ http://tracker.sbsub.com:2710/announce
 http://tracker.tfile.co:80/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker810.xyz:11450/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://www.all4nothin.net:80/announce.php
@@ -51,6 +52,7 @@ https://sparkle.ghostchu-services.top:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw:443/announce
+https://tr.ready4.icu/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.kmzs123.com:443/announce
