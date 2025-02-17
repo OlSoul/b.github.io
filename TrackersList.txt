@@ -20,6 +20,7 @@ http://data-bg.net/announce
 http://discord.heihachi.pw:6969/announce
 http://finbytes.org/announce
 http://finbytes.org:80/announce.php
+http://fosstorrents.com:6969/announce
 http://highteahop.top:6960/announce
 http://home.yxgz.club:6969/announce
 http://i.bandito.org/announce
@@ -75,6 +76,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.openbittorrent.com
 http://tracker.openbittorrent.com/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.net:6969/announce
