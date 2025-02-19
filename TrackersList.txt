@@ -222,6 +222,7 @@ udp://5.181.188.172:1337/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.81.222.188:6969/announce
+udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://61.221.26.18:6969/announce
@@ -254,6 +255,7 @@ udp://91.238.104.240:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://960303.xyz:6969/announce
 udp://aaa.army:8866/announce
+udp://aarsen.me:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
@@ -329,10 +331,12 @@ udp://isk.richardsw.club:6969/announce
 udp://jeremylee.sh:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://keke.re:6969/announce
+udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kristof.bartanet.cz:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://leet-tracker.moe:23861/announce
 udp://leet-tracker.moe:38151/announce
+udp://leidenfro.st:6969/announce
 udp://lloria.fr:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://lulz.vpndb.org:3000/announce
