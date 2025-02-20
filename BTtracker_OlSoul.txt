@@ -58,6 +58,7 @@ http://torrentzilla.org/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.bittor.pw:1337/announce
+http://tracker.bt4g.com:2095/announce
 http://tracker.bt-hash.com/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bz/announce
@@ -101,6 +102,7 @@ http://tracker810.xyz:6960/announce
 http://tracker810.xyz:6969/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+http://wegkxfcivgx.ydns.eu/announce
 http://www.all4nothin.net/announce
 http://www.all4nothin.net:80/announce.php
 http://www.bitseduce.com/announce
@@ -127,6 +129,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://track3r.site/announce
+https://tracker.bt4g.com/announce
+https://tracker.bt4g.com:443/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -219,6 +223,7 @@ udp://37.27.4.53:6969/announce
 udp://46.138.242.240:6969/announce
 udp://5.102.159.190:6969/announce
 udp://5.181.188.172:1337/announce
+udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.81.222.188:6969/announce
@@ -283,6 +288,7 @@ udp://bubu.mapfactor.com:6969/announce
 udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
+udp://caramelo.ddns.net:8000/announce
 udp://carr.codes:6969/announce
 udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
@@ -422,6 +428,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
+udp://tracker.auctor.tv:6969/announce
 udp://tracker.babico.name.tr:8000/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
@@ -436,6 +443,7 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.draatman.uk:6969/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
@@ -501,6 +509,7 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
@@ -508,6 +517,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://unknownsite.de:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://www.eddie4.nl:6969/announce
