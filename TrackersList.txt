@@ -145,6 +145,7 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top/announce
 https://tracker.gcrenwp.top:443/announce
+https://tracker.guguan.us.kg/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kmzs123.cn/announce
 https://tracker.kmzs123.com/announce
@@ -221,6 +222,7 @@ udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cq.kmzs123.cn:17272/announce
+udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -419,6 +421,7 @@ udp://tracker.kuroy.me:5944/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.linvk.com:6969/announce
 udp://tracker.lyretain.site:2710/announce
+udp://tracker.merded.xyz:8000/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.moxing.party:6969/announce
@@ -451,6 +454,7 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
@@ -482,6 +486,7 @@ udp://unknownsite.de:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
